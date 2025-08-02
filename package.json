@@ -1,0 +1,16 @@
+{
+  "name": "typescript-project",
+  "version": "1.0.0",
+  "description": "TypeScript practice project",
+  "main": "test1.ts",
+  "scripts": {
+    "start": "ts-node test1.ts",
+    "build": "tsc",
+    "dev": "ts-node test1.ts"
+  },
+  "devDependencies": {
+    "typescript": "^5.0.0",
+    "ts-node": "^10.9.0",
+    "@types/node": "^20.0.0"
+  }
+} 
